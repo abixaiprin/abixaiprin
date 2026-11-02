@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Abixai 👋
 
-<!--
-**abixaiprin/abixaiprin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer + Applied AI** · Caracas, Venezuela · building since 2017
+*I build tools that save people time.*
 
-Here are some ideas to get you started:
+- 🛠️ Node.js · NestJS · Next.js · React · Angular · Java/Spring Boot · Python
+- ☁️ AWS (EC2, S3, Lambda, RDS) · PostgreSQL · Supabase · MongoDB
+- 🤖 LLM integrations (OpenAI, Gemini), agents, MCP servers and n8n automations
+- 🌎 Spanish (native) · English (B2) · Portuguese (work) · Thai (A1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Open source
+| Project | What it does |
+|---|---|
+| [tasas-ve-mcp](https://github.com/abixaiprin/tasas-ve-mcp) | MCP server + CLI with Venezuela's official BCV rates, per-bank rates, USDT P2P and a converter |
+| [mean-project](https://github.com/abixaiprin/mean-project) | MEAN Auth Starter: signup/login API with JWT and bcrypt · [live demo](https://abixaiprin.github.io/mean-project) |
+
+#### Elsewhere
+[Portfolio](https://dev-abixai.netlify.app) · [LinkedIn](https://www.linkedin.com/in/abixai-martinez)
+
+<sub>Hola 👋 Desarrollo herramientas abiertas para Venezuela y LATAM. Abierta a nuevos proyectos y alianzas.</sub>
