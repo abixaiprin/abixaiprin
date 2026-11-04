@@ -1,6 +1,7 @@
 ### Hi, I'm Abixai 👋
 
-**Full Stack Developer + Applied AI** · Caracas, Venezuela · building since 2017
+**Full Stack Developer + Applied AI** · Caracas, Venezuela · building since 2017  
+
 *I build tools that save people time.*
 
 - 🛠️ Node.js · NestJS · Next.js · React · Angular · Java/Spring Boot · Python
@@ -12,6 +13,7 @@
 | Project | What it does |
 |---|---|
 | [tasas-ve-mcp](https://github.com/abixaiprin/tasas-ve-mcp) | MCP server + CLI with Venezuela's official BCV rates, per-bank rates, USDT P2P and a converter |
+| [eaxy-tools](https://github.com/abixaiprin/eaxy-tools) | Photos to PDF and invoices (PDF or photo) to JSON/CSV, with or without AI (OpenAI, Gemini or local Ollama) |
 | [mean-project](https://github.com/abixaiprin/mean-project) | MEAN Auth Starter: signup/login API with JWT and bcrypt · [live demo](https://abixaiprin.github.io/mean-project) |
 
 #### Elsewhere
