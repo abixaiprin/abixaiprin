@@ -17,6 +17,6 @@
 | [mean-project](https://github.com/abixaiprin/mean-project) | MEAN Auth Starter: signup/login API with JWT and bcrypt · [live demo](https://abixaiprin.github.io/mean-project) |
 
 #### Elsewhere
-[Portfolio](https://dev-abixai.netlify.app) · [LinkedIn](https://www.linkedin.com/in/abixai-martinez)
+[Portfolio](https://dev-abixai.netlify.app) · [My AI agent skills on Agensi](https://www.agensi.io/creators/abixai-prin) · [LinkedIn](https://www.linkedin.com/in/abixai-martinez)
 
 <sub>Hola 👋 Desarrollo herramientas abiertas para Venezuela y LATAM. Abierta a nuevos proyectos y alianzas.</sub>
